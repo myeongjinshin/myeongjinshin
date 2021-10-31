@@ -14,7 +14,7 @@
 ## Projects
 
 - [Fast Elliptic Curve Operator](https://github.com/myeongjinshin/Elliptic-Curve-dot-opreation-calculator): Using jacobian and DP for fast elliptic curve dot operation  
-- [Battle-2048](https://github.com/myeongjinshin/DQN-Battle-2048): Reinforcement Learning with modified 2048 Game
+- [Battle-2048](https://github.com/red1108/Battle-2048): Reinforcement Learning with modified 2048 Game
 - [Web Mighty](https://github.com/myeongjinshin/web-mighty): Web mighty game project
 - [TTforces](https://github.com/myeongjinshin/ttforces): Table tennis web and app platform
 
