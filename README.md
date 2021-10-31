@@ -1,27 +1,27 @@
-- 👋 Hi, I’m myeongjinshin
+# 신명진 | MyeongJin Shin
+
+### Hi there 👋
 - 👀 I’m interested in Quantum Computing, AI, Full Stack Development
 - 🌱 I’m currently learning QNN, Reinforcement Learning, React, Haskell, Scala
 - 🔭 Ask me about: C, C++, Python, React, Javascript, Quantum Computing, Cryptography, AI
 - 🛠  I’m currently working on: Developing DQN-2048, Researching QNN
-- 📫 How to reach me hanwoolmj@kaist.ac.kr
-
-# 신명진 | MyeongJin Shin
-
-### Hi there 👋
 
 ## Education
 
 - 2018.03 ~ 2021.01 : Gyeonggi Science High School for the Gifted
 - 2021.03 ~         : Korea Advanced Institute of Science and Technology
 
-## Paper
+## Projects
 
+- [Fast Elliptic Curve Operator](https://github.com/myeongjinshin/Elliptic-Curve-dot-opreation-calculator): Using jacobian and DP for fast elliptic curve dot operation  
+- [Battle-2048](https://github.com/myeongjinshin/DQN-Battle-2048): Reinforcement Learning with modified 2048 Game
+- [Web Mighty](https://github.com/myeongjinshin/web-mighty): Web mighty game project
+- [TTforces](https://github.com/myeongjinshin/ttforces): Table tennis web and app platform
 
 ## Github
 
 [![myeongjinshin's github stats](https://github-readme-stats.vercel.app/api?username=myeongjinshin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjinshin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Problem Solving
 
